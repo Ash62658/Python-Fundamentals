@@ -1,14 +1,19 @@
-# Python-Fundamentals
-Learning and implementing Python fundamentals 
-
 # Python Fundamentals (Mobile Learning)
 
-Learning CS and programming from scratch on my phone.  
-Week 1: Inputs, conditions, loops, strings, and basic logic.
+Learning Computer Science and Python from scratch on a smartphone.
 
-## Programs Included:
+## Week 1: Basics Covered
 - Calculator
 - Odd/Even Checker
-- Age Eligibility
+- Age Eligibility Checker
 - String Reverser
 - Word Counter
+
+## Tools Used
+- Pydroid 3 (Android)
+- GitHub mobile
+- Full self-study, no computer required
+
+---
+
+This repo is part of my journey to master CS in under 6 months.
