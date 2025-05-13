@@ -27,3 +27,13 @@ This repo is part of my journey to master CS in under 6 months.
 - Discovered that the World Wide Web is just one part of the Internet.
 
 Next: Build a simple Python app that mimics a tiny part of this (like a basic web server).
+
+
+### Grade Calculator (Final Version)
+A fully interactive CLI grade calculator that:
+
+- Accepts subject names and marks
+- Validates all inputs and ranges
+- Calculates and prints subject-wise grades
+- Determines total, average, and overall grade
+- **Writes full report to `GradeData.txt`**
