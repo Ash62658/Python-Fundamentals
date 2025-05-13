@@ -100,3 +100,4 @@ with open("GradeData.txt", "w") as f:
 	f.write(f"\nYour total marks : {sum(marks_list)} / {100*nos}")
 	f.write(f"\nYour overall Grade : {OverallGrade}")
 	f.write(f"\nYour average score : {average_score:.2f}")
+#end 
